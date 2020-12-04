@@ -2,7 +2,7 @@
 
 家の環境をグラフ、ダッシュボードで見る「Home Env Dashboard」のダッシュボード本体です。Plotly Dashを利用して作成しています。
 
-センサーノードの構築はこちらを参考にしてください。 -> [hrsano645/homeenvdash_sensor_node: 家環境ダッシュボードのセンサーノード](https://github.com/hrsano645/homeenvdash_sensor_node)
+センサーノードの構築はこちらを参考にしてください。 -> [hrsano645/homeenvdash_sensor_node](https://github.com/hrsano645/homeenvdash_sensor_node)
 
 ## 動作環境
 
