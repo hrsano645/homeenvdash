@@ -8,6 +8,7 @@
 
 - python 3.7以上（pipenvでは3.7）
 - Windows 10, Ubuntu 20.04
+- [hrsano645/homeenvdash_sensor_node](https://github.com/hrsano645/homeenvdash_sensor_node)で作成したセンサーノード
 
 ## 利用したPythonパッケージ
 
